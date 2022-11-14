@@ -1,0 +1,190 @@
+
+h1{
+    font-style: italic;
+    color: rgb(250, 3, 139);
+    font-size:;
+}
+
+.text01{
+    border-top:solid black 2px ;
+    border-bottom:solid black 2px  ;
+}
+
+.negrito{
+    font-weight:bolder ;
+}
+
+body{
+    background-color: beige;
+}
+.container-a{
+    display: flex;
+    justify-content: space-between;
+    max-width: 100%;
+    margin: 40px 40px;
+}
+
+.div1{
+    margin: 2px;
+    width:1020px;
+    max-height:720px;
+    
+    display: flex;
+    flex-direction: column;
+    
+
+}
+
+.div2{
+    margin: 2px;
+    display: flex;
+    align-items:flex-end;
+    
+    width:720px;
+    height:720px;
+
+}
+
+.btn{
+    border: solid rgb(253, 34, 245);
+    border-radius: 15px;
+    border-color: rgb(253, 34, 245);
+    background-color: rgb(253, 34, 245);
+    justify-content:center ;
+    align-items: center;
+    display: flex;
+    width: 70px;
+    height: 30px;
+}
+/* ------------bloco2------------ */
+h1{
+    font-style: italic;
+    color: rgb(250, 3, 139);
+    
+}
+
+.text02{
+    border-top:solid black 2px ;
+    border-bottom:solid black 2px  ;
+}
+
+.negrito2{
+    border-top: solid black 2px;
+    border-bottom:solid black 2px ;
+    font-weight:bolder ;
+}
+
+body{
+    background-color: rgba(250, 205, 250, 0.66);
+}
+.container-b{
+    display: flex;
+    justify-content: space-between;
+    max-width: 100%;
+    margin: 40px 40px;
+    
+}
+
+.div3{ /*img gato 2*/
+    margin: 2px;
+    display: flex;
+    
+}
+
+
+.div1{
+    margin: 2px;
+    display: flex;
+    width:620px;
+    height:620px;
+
+}
+
+.btn2{
+    
+    border: solid rgb(253, 34, 245);
+    border-color:rgb(253, 34, 245); 
+    border-radius: 15px;
+    background-color: rgb(253, 34, 245);
+    justify-content:center ;
+    align-items: center;
+    display: flex;
+    width: 120px;
+    height: 30px;
+   
+}
+
+/* ------------------terceira parte--------------------- */
+
+.h1bold{
+    font-style: normal;
+    color: rgb(0, 0, 0); 
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start; 
+
+    
+   
+}
+.container-c{
+    display: flex;
+    justify-content: space-between;
+    max-width: 100%;
+    margin: 20px 25px;
+    border-top: solid black 2px;
+    border-bottom:solid black 2px;;
+}
+
+.h2hobby{
+    color: rgb(64, 217, 64);
+    
+}
+
+.div5{
+    display: flex;
+    flex-direction: column;
+    padding: 10px 10px;
+    margin: 10px 50px 60px;
+    background-color: #f2f89c;
+    border-radius: 3px;
+    border-left:solid black 8px;
+    box-shadow: 15px 15px 15px rgb(248, 120, 141);
+    height: 90%;
+
+}
+
+.div6{
+    display: flex;
+    flex-direction: column;
+    padding: 10px 10px;
+    margin: 10px 10px 40px;
+    background-color: #f2f89c;
+    border-radius: 3px;
+    border-left:solid black 8px;
+    box-shadow: 15px 15px 15px rgb(248, 120, 141);
+    height: 90%;
+
+}
+
+.text03{
+    border-top: solid rgb(165, 165, 165) 2px;
+}
+.text04{
+    border-top: solid rgb(165, 165, 165) 2px;
+}
+
+.rodape{
+    font-style: normal;
+    text-align: center;
+}
+
+.h1rodape{
+    color: rgb(230, 7, 181);
+    font-style: normal;
+    font-family:fantasy;
+    
+}
+
+.h3rodape{
+    color: rgb(230, 7, 181);
+}
